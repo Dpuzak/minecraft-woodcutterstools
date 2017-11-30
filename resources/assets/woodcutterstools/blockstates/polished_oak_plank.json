@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "woodcutterstools:polished_oak_plank"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

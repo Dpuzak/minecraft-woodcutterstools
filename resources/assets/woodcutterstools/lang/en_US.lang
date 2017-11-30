@@ -1,0 +1,8 @@
+#blocks
+tile.woodcutterstools.polished_oak_plank.name=Polished Oak Plank
+tile.woodcutterstools.polished_dark_oak_plank.name=Polished Dark Oak Plank
+tile.woodcutterstools.polished_spruce_plank.name=Polished Spruce Plank
+
+
+#items
+item.woodcutterstools.woodcutters_saw.name=Woodcutter's Saw
