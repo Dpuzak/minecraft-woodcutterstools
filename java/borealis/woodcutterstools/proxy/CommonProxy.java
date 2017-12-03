@@ -21,14 +21,10 @@ public class CommonProxy {
 
     public void preInit(FMLPreInitializationEvent e) {
         File directory = e.getModConfigurationDirectory();
-        config = new Configuration(new File(directory.getPath(), "modtut.cfg"));
+        config = new Configuration(new File(directory.getPath(), "woodcutterstools.cfg"));
         Config.readConfig();
 
-        // Initialize our packet handler. Make sure the name is
-        // 20 characters or less!
-//        PacketHandler.registerMessages("modtut");
 
-        // Initialization of blocks and items typically goes here:
         ModBlocks.init();
         ModItems.init();
 

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "woodcutterstools:blocks/polished_acacia_plank"
+  }
+}

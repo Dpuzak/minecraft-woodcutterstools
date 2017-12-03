@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "woodcutterstools:blocks/polished_dark_oak_plank",
+        "top": "woodcutterstools:blocks/polished_dark_oak_plank",
+        "side": "woodcutterstools:blocks/polished_dark_oak_plank"
+    }
+}

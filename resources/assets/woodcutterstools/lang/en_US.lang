@@ -1,7 +1,18 @@
 #blocks
+tile.woodcutterstools.polished_acacia_plank.name=Polished Acacia Plank
+tile.woodcutterstools.polished_acacia_plank_stairs.name=Polished Acacia Plank Stairs
+
+tile.woodcutterstools.polished_birch_plank.name=Polished Birch Plank
+tile.woodcutterstools.polished_birch_plank_stairs.name=Polished Birch Plank Stairs
+tile.woodcutterstools.polished_jungle_plank.name=Polished Jungle Plank
+tile.woodcutterstools.polished_jungle_plank_stairs.name=Polished Jungle Plank Stairs
 tile.woodcutterstools.polished_oak_plank.name=Polished Oak Plank
+tile.woodcutterstools.polished_oak_plank_stairs.name=Polished Oak Plank Stairs
 tile.woodcutterstools.polished_dark_oak_plank.name=Polished Dark Oak Plank
+tile.woodcutterstools.polished_dark_oak_plank_stairs.name=Polished Dark Oak Plank Stairs
 tile.woodcutterstools.polished_spruce_plank.name=Polished Spruce Plank
+tile.woodcutterstools.polished_spruce_plank_stairs.name=Polished Spruce Plank Stairs
+
 
 
 #items

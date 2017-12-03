@@ -23,9 +23,9 @@ public class ClientProxy extends CommonProxy {
 
         // Typically initialization of models and such goes here:
         ModBlocks.initModels();
-        ModRecipes.addRecipes();
-        ModItems.initModels();
 
+        ModItems.initModels();
+        ModRecipes.addRecipes();
         //ModEntities.initModels();
     }
 
